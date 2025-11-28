@@ -1,0 +1,2 @@
+[2025-11-28 22:15:14] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'university_db'
+[2025-11-28 23:04:59] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'university_db'
